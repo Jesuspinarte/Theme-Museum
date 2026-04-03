@@ -1,0 +1,1 @@
+public enum EMat { ORIGINAL, HOVER, SELECTED, ERROR }

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e304275fa976514ebf0abc249744f24, type: 3}
+  m_Name: Plate
+  m_EditorClassIdentifier: Assembly-CSharp::ObjectSO
+  objectName: Plate
+  type: 4
+  cost: 100
+  description: An intricate bronze plaque, gifted to the museum to ensure the history
+    of ancient kingdoms is never forgotten.
+  reputationOnBuilt: 0
+  satisfactionBonus: 0
+  placementRule: 2
+  requiredRoomType: 2
+  prefab: {fileID: -3770981748648369676, guid: 477457fc8a83a40489acd9818af02b51, type: 3}

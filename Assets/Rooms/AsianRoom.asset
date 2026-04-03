@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f353c368f48879a4c98d3ce3833c7364, type: 3}
+  m_Name: AsianRoom
+  m_EditorClassIdentifier: Assembly-CSharp::RoomTypeSO
+  roomName: Asian Room
+  roomType: 1
+  costPerTile: 5
+  description: 
+  minSize: {x: 7, y: 7}
+  requiredEntrances: 2
+  maxEntrances: 5
+  requiredStaff: 0
+  allowedObjectsTypeList: 50
+  requiredObjectsTypeList:
+  - {fileID: 11400000, guid: 5e9c2f1837b6dda47b668c52f98ebff5, type: 2}
+  - {fileID: 11400000, guid: 5e9c2f1837b6dda47b668c52f98ebff5, type: 2}
+  - {fileID: 11400000, guid: 12935cd8177fc614a8d6f0455fdf2c42, type: 2}
+  floorMaterial: {fileID: 2100000, guid: 7b454479b1d6ca24c85dd8da4dab7828, type: 2}
+  wallMaterial: {fileID: 2100000, guid: 3e258d3873516104f8ebc549891447e4, type: 2}

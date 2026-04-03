@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e304275fa976514ebf0abc249744f24, type: 3}
+  m_Name: Bone
+  m_EditorClassIdentifier: Assembly-CSharp::ObjectSO
+  objectName: Bone
+  type: 1
+  cost: 50
+  description: "A giant herbivore femur donated by the University\u2019s geology
+    department to inspire future paleontologists."
+  reputationOnBuilt: 0
+  satisfactionBonus: 0
+  placementRule: 2
+  requiredRoomType: 0
+  prefab: {fileID: 5303419793909389645, guid: 3255c1383336e4e4ebbeb2d02acb0047, type: 3}
